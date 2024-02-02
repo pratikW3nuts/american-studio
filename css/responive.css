@@ -1,0 +1,311 @@
+@media (min-width: 1301px) and (max-width: 1399px) {
+    .titlebox h2,.titlebox h2 span,.abt_show_wrap .titleblock .rghtbox h2,.abt_show_wrap .titleblock .rghtbox h2 span{font-size: 38px;}
+    .latest_podcast_wrap,.pod_blogs_wrap,.subNews_wrap,.latest_video_wrap,.abt_show_wrap,.latest_resource_wrap,.about_me_wrap,
+    .achievement_wrap,.best_movie_wrap,.clientWord_wrap,.ourClients_wrap{padding: 50px 0;}
+    .podbox .detailbox .textblock h3,.podbox .detailbox .textblock h3 span,.catbox .detailbox .textblock h3,
+    .catbox .detailbox .textblock h3 span,.blogbox .detailblock h3{font-size: 30px;}
+    .images_contain .overlay .contain h3,.images_contain .overlay .contain h3 pan{font-size: 42px;}
+    .images_contain .overlay .contain a {height: 42px;width: 42px;}
+    .achievement_inner .state_wrap .statebox strong{font-size: 40px;}
+
+    .best_movie_wrap .award_trophy .imgbox strong{font-size: 34px;}
+    .banner_wrap .bnr_caption .titlebox h1{font-size: 180px;}
+    .listen_subscribe_wrap{background-size: cover;}
+    .listenSub_block .rightpart .socialsBox_wrap ul{justify-content: center;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box{top: -10%;}
+    .abt_innerbox .lftbox .imgbox::after{display: none;}
+    .clientLogo_row{justify-content: center;}
+    .clientLogo_row .clientIcon+.clientIcon {margin: 0 0 20px 30px;}
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .titlebox h2,.titlebox h2 span,.abt_show_wrap .titleblock .rghtbox h2,.abt_show_wrap .titleblock .rghtbox h2 span{font-size: 36px;}
+    .latest_podcast_wrap,.pod_blogs_wrap,.subNews_wrap,.latest_video_wrap,.abt_show_wrap,.latest_resource_wrap,.about_me_wrap,
+    .achievement_wrap,.best_movie_wrap,.clientWord_wrap,.ourClients_wrap{padding: 50px 0;}
+    .podbox .detailbox .textblock h3,.podbox .detailbox .textblock h3 span,.catbox .detailbox .textblock h3,
+    .catbox .detailbox .textblock h3 span,.blogbox .detailblock h3{font-size: 28px;}
+    .images_contain .overlay .contain h3,.images_contain .overlay .contain h3 pan{font-size: 42px;}
+    .images_contain .overlay .contain a {height: 40px;width: 40px;}
+    .achievement_inner .state_wrap .statebox strong{font-size: 40px;}
+
+    .banner_wrap .bnr_caption .titlebox h1{font-size: 170px;}
+    .listen_subscribe_wrap{background-size: cover;}
+    .listenSub_block .rightpart .socialsBox_wrap ul{justify-content: center;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box strong{font-size: 60px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box p,.abt_show_wrap .show_bnr .innerbox .exp_box p span{font-size: 16px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box {min-width: 160px;min-height: 160px;top: -12%;left: 8%;}
+    .abt_innerbox .lftbox .imgbox::after{display: none;}
+    .abt_innerbox .rightbox {padding: 65px 40px 40px 140px;}
+    .abt_innerbox .lftbox .imgbox {max-width: 430px;}
+    .clientLogo_row{justify-content: center;}
+    .clientLogo_row .clientIcon+.clientIcon { margin: 0 0 20px 30px;}
+    .rightpart .rghtside .pages_linkbox ul li+li {margin: 0 0 0 40px;}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .latest_podcast_wrap,.pod_blogs_wrap,.subNews_wrap,.latest_video_wrap,.abt_show_wrap,.latest_resource_wrap,.about_me_wrap,
+    .achievement_wrap,.best_movie_wrap,.clientWord_wrap,.ourClients_wrap{padding: 40px 0;}
+    
+    .pod_categories_wrap .titlebox,.pod_blogs_wrap .titlebox,.latest_resource_wrap .titlebox,.best_movie_wrap .titlebox,
+    .clientWord_wrap .titlebox,.ourClients_wrap .titlebox{padding: 0 0 40px;}
+    
+    .titlebox h2,.titlebox h2 span,.abt_show_wrap .titleblock .rghtbox h2,.abt_show_wrap .titleblock .rghtbox h2 span{font-size: 32px;}
+    
+    .podbox .detailbox .textblock h3,.podbox .detailbox .textblock h3 span,.catbox .detailbox .textblock h3,
+    .catbox .detailbox .textblock h3 span,.blogbox .detailblock h3{font-size: 26px;}
+
+    .main-header-block{min-height: 100px;}
+    .main-header-block .header-logobox {max-width: 170px;}
+    .main-header-block .header-nav ul li + li {margin: 0 0 0 25px;}
+    .btnbox .primary_btn {min-width: 120px;padding: 12px 0;}
+
+    .banner_wrap .bnr_caption .titlebox h1{font-size: 150px;text-align: center;}
+    .banner_wrap .bnr_caption .titlebox h1 span + span { margin: 0 0 0 150px;}
+    .banner_wrap .bnr_caption .tag_txt{text-align: center;padding: 0;}
+    .banner_wrap .bnr_caption .tag_txt::after{left: 25%;}
+    .banner_wrap .bnr_caption .play_trailer{bottom: 120px;left: -37px;}
+
+    .latest_podcast_wrap .metablock{flex-direction: column;padding: 0 0 40px;}
+    .latest_podcast_wrap .metablock .about_pod p+p {padding: 20px 0 0 0;}
+    .latest_podcast_wrap .metablock .about_pod {max-width: 100%;}
+
+    .listen_subscribe_wrap{background-size: cover;}
+    .listenSub_block .rightpart .socialsBox_wrap ul{justify-content: center;}
+    .listenSub_block .rightpart .socialsBox_wrap ul li+li {margin: 0 0 0 20px;}
+
+    .blogbox .readShare_box .readmore a span{font-size: 18px;}
+
+    .abt_show_wrap .titleblock {flex-direction: column;justify-content: flex-start}
+    .abt_show_wrap .titleblock{padding: 0 0 80px;}
+    .abt_innerbox .rightbox .description {max-width: 100%;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box {min-width: 170px;min-height: 170px;top: -16%;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box strong{font-size: 55px;padding: 0 0 25px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box p,.abt_show_wrap .show_bnr .innerbox .exp_box p span{font-size: 17px;}
+
+    .abt_innerbox .lftbox .imgbox::after{display: none;}
+    .abt_innerbox{flex-direction: column;}
+    .abt_innerbox .lftbox .imgbox{margin: 0 auto;}
+    .abt_innerbox .rightbox {padding: 40px;margin: 40px 0 0 0;}
+    .achievement_inner .state_wrap{justify-content: center;}
+    .achievement_inner .state_wrap .statebox strong{font-size: 40px;}
+    .achievement_inner .state_wrap .statebox p{font-size: 15px;}
+    .images_contain .overlay .contain h3,.images_contain .overlay .contain h3 span{font-size: 36px;}
+    .images_contain .overlay .contain a {height: 36px;width: 36px;}
+    .best_movie_wrap .award_trophy .imgbox{max-width: 700px;}
+    .best_movie_wrap .award_trophy .imgbox strong{font-size: 32px;}
+    .client_wordbox .owl-nav{margin: 40px 0 0 0;}
+    .clientLogo_row{justify-content: center;}
+    .clientLogo_row .clientIcon+.clientIcon {margin: 0 0 20px 30px;}
+
+    .footer_wrap .leftpart, .footer_wrap .leftpart{padding: 40px;}
+    .leftpart .logoinfo .detailblock{padding: 0 0 35px;}
+    .leftpart .logoinfo .mailinfo span{font-size: 23px;}
+    .leftpart .logoinfo .mailinfo .mail{font-size: 30px;}
+    .rightpart .rghtside .pages_linkbox h3{font-size: 30px;}
+    .rightpart .rghtside .pages_linkbox ul{flex-direction: column;}
+    .rightpart .rghtside .pages_linkbox ul li+li {margin: 15px 0 0 0;}
+    .footer_wrap .rightpart{padding: 40px;}
+    .rightpart .rghtside .pages_linkbox{padding: 0 0 40px;}
+    .rightpart .rghtside .social_row{padding: 0 0 40px;}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .latest_podcast_wrap,.pod_blogs_wrap,.subNews_wrap,.latest_video_wrap,.abt_show_wrap,.latest_resource_wrap,.about_me_wrap,
+    .achievement_wrap,.best_movie_wrap,.clientWord_wrap,.ourClients_wrap{padding: 40px 0;}
+    
+    .pod_categories_wrap .titlebox,.pod_blogs_wrap .titlebox,.latest_resource_wrap .titlebox,.best_movie_wrap .titlebox,
+    .clientWord_wrap .titlebox,.ourClients_wrap .titlebox{padding: 0 0 40px;}
+    
+    .titlebox h2,.titlebox h2 span,.abt_show_wrap .titleblock .rghtbox h2,.abt_show_wrap .titleblock .rghtbox h2 span{font-size: 32px;}
+    
+    .podbox .detailbox .textblock h3,.podbox .detailbox .textblock h3 span,.catbox .detailbox .textblock h3,
+    .catbox .detailbox .textblock h3 span,.blogbox .detailblock h3{font-size: 26px;}
+
+    .main-header-block{min-height: 100px;}
+    .banner_wrap .bnr_caption .titlebox h1{font-size: 130px;text-align: center;}
+    .banner_wrap .bnr_caption .titlebox h1 span + span { margin: 0 0 0 100px;}
+    .banner_wrap .bnr_caption .tag_txt{text-align: center;}
+    .banner_wrap .bnr_caption .tag_txt::after{left: 22%;}
+
+    .latest_podcast_wrap .metablock{flex-direction: column;}
+    .latest_podcast_wrap .metablock .about_pod{padding: 0;}
+    .latest_podcast_wrap .metablock .about_pod p+p { padding: 20px 0 0 0;}
+    .listen_subscribe_wrap{background-size: cover;}
+    .listenSub_block .rightpart .socialsBox_wrap ul{justify-content: center;}
+    .listenSub_block .rightpart {padding: 0;}
+    .listenSub_block .leftpart{padding: 0 0 20px;}
+    .listenSub_block{padding: 50px 0;}
+    .blogbox{margin: 0 0 30px;}
+    .abt_show_wrap .titleblock {flex-direction: column;justify-content: flex-start}
+    .abt_show_wrap .titleblock{padding: 0 0 80px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box {min-width: 150px;min-height: 150px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box strong{font-size: 50px;padding: 0 0 20px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box p,.abt_show_wrap .show_bnr .innerbox .exp_box p span{font-size: 16px;}
+
+    .abt_innerbox{flex-direction: column;}
+    .abt_innerbox .lftbox .imgbox{max-width: 100%;}
+    .abt_innerbox .rightbox {padding: 30px;margin: 30px 0 0 0;}
+    .abt_innerbox .lftbox .imgbox::after{display: none;}
+    .abt_innerbox .rightbox .description p+p {padding: 20px 0 0 0;}
+    .abt_innerbox .rightbox .description {max-width: 100%;}
+    .abt_innerbox .rightbox .description .signbox {padding: 25px 0 0 0;}
+    .abt_innerbox .rightbox .description .signbox strong{font-size: 38px;}
+
+    .achievement_inner .state_wrap .statebox strong{font-size: 36px;}
+    .achievement_inner .state_wrap .statebox:after{width: 80px;}
+
+    .images_contain .imgbox {max-width: 33.33333%;}
+    .images_contain .overlay .contain h3,.images_contain .overlay .contain h3 span{font-size: 34px;}
+    .images_contain .overlay .contain{padding: 0 0 0 30px;}
+    .images_contain .overlay .contain a {height: 35px;width: 35px;}
+
+    .best_movie_wrap .award_trophy{position: relative;}
+    .movies_wrap .firstblock{justify-content: space-around;}
+    .movies_wrap .secondblock{justify-content: space-around;margin: 40px 0;}
+    .movies_wrap .thirdblock{justify-content: space-around;}
+    .best_movie_wrap .award_trophy .imgbox { max-width: 100%;padding-top: 40px;}
+    .best_movie_wrap .award_trophy .imgbox strong{font-size: 28px;}
+    .client_innerbox {max-width: 100%;}    
+    .client_innerbox .detail h3{font-size: 28px;}
+    .client_innerbox .detail {padding: 0 0 20px;}
+    .client_wordbox .owl-nav{margin: 25px 0 0 0;}
+    .clientLogo_row .clientIcon+.clientIcon {margin: 0 0 20px 20px;}
+    .footer_wrap .leftpart, .footer_wrap .leftpart{padding: 30px;}
+    .footer_wrap .rightpart{padding: 30px;}
+    .leftpart .logoinfo .ftrlogo { max-width: 230px;}
+    .leftpart .logoinfo .mailinfo span{font-size: 20px;padding: 0 0 20px;}
+    .leftpart .logoinfo .mailinfo .mail{font-size: 26px;}
+    .rightpart .rghtside .pages_linkbox h3{font-size: 28px;}
+    .rightpart .rghtside .pages_linkbox ul li+li { margin: 15px 0 0 0;}
+    .rightpart .rghtside .pages_linkbox ul{flex-direction: column;}
+    .leftpart .logoinfo .detailblock{padding: 0 0 30px;}
+    .rightpart .rghtside .pages_linkbox{padding: 0 0 30px;}
+    .rightpart .rghtside .social_row{padding: 0 0 30px;}
+}
+
+
+
+@media (max-width: 991px) {
+    .btnbox{margin: 0 0 0 auto;}
+    .pc_hamburger { display: block; margin: 0 0 0 30px;}
+    .main-header-block .header-logobox {position: relative;z-index: 11;}
+    .header-nav { position: fixed; height: auto;width: 375px; left: auto; top: 0; right: 0; background: #353535; flex-wrap: wrap; bottom: 0; align-items: flex-start; justify-content: flex-start; flex-direction: column; border-left: solid 1px rgba(0, 0, 0, 0.1); padding: 100px 20px 0;transform: translateX(100%);-webkit-transition: all ease-in-out 0.3s;-moz-transition: all ease-in-out 0.3s;transition: all ease-in-out 0.3s;}
+	.is_menu_active .header-nav {transform: translateX(0%);}
+	.header-nav ul {  flex-wrap: wrap; width: 100%;}
+	.header-nav ul li { width: 100%;}
+	.main-header-block .header-nav ul li + li { margin: 15px 0 0 0;}
+	.main-header-block .header-nav ul li a { font-size: 18px;}
+    .btnbox .primary_btn {min-width: 117px;padding: 10px 0;/* position: relative; */}
+
+    .podbox .overlay{opacity: 1;visibility: visible;background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);}
+    .podbox .play_pod{opacity: 1;}
+    
+.images_contain .overlay .contain {background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);}
+.images_contain .imgbox .overlay{opacity:1;}
+}
+
+@media (max-width: 767px) {
+    .latest_podcast_wrap,.pod_blogs_wrap,.subNews_wrap,.latest_video_wrap,.abt_show_wrap,.latest_resource_wrap,.about_me_wrap,
+    .achievement_wrap,.best_movie_wrap,.clientWord_wrap,.ourClients_wrap{padding: 30px 0;}
+    
+    .pod_categories_wrap .titlebox,.pod_blogs_wrap .titlebox,.latest_resource_wrap .titlebox,.best_movie_wrap .titlebox,
+    .clientWord_wrap .titlebox,.ourClients_wrap .titlebox,.leftpart .logoinfo .detailblock{padding: 0 0 30px;}
+    
+    .titlebox h2,.titlebox h2 span,.abt_show_wrap .titleblock .rghtbox h2,.abt_show_wrap .titleblock .rghtbox h2 span{font-size: 28px;}
+    
+    .podbox .detailbox .textblock h3,.podbox .detailbox .textblock h3 span,.catbox .detailbox .textblock h3,
+    .catbox .detailbox .textblock h3 span,.blogbox .detailblock h3{font-size: 24px;}
+
+    .main-header-block{min-height: 80px;}
+    .main-header-block .header-logobox {max-width: 160px;}
+    .pc_hamburger{ margin: 0px 0 0 15px;}
+    .btnbox .primary_btn {min-width: 100px;padding: 10px 0;}
+    .btnbox a span{font-size: 14px;}
+    .banner_wrap .bnr_caption .titlebox h1{font-size: 65px;text-align: center;}
+    .banner_wrap .bnr_caption .tag_txt{font-size: 14px;padding: 0 0 0 25px;}
+    .banner_wrap .bnr_caption .tag_txt::after{width: 20px;top: 6px;}
+    .banner_wrap .bnr_caption .titlebox h1 span + span { margin: 0 0 0 50px;}
+    .banner_wrap .bnr_caption .play_trailer{margin: 0;bottom: 0; position: relative;}
+    .bnr_latsec .followbox{bottom: 0;padding: 30px 0 0 0;justify-content: center;}
+    .banner_wrap .bnr_caption { min-height: 375px;max-width: 100%;}
+    .latest_podcast_wrap .metablock{flex-direction: column;}
+
+    .latest_podcast_wrap .metablock .about_pod p+p { padding: 20px 0 0 0;}
+    .latest_podcast_wrap .titlebox{padding: 0 0 15px;}
+    .latest_podcast_wrap .metablock{padding:0 0 30px;}
+    .podcast_slider .owl-nav{margin: 70px 0 0 0;}
+    .listen_subscribe_wrap{background-size: cover;}
+    .listenSub_block .rightpart {padding: 30px 0;}
+    .listenSub_block{padding: 30px 0;}
+    .listenSub_block .rightpart .socialsBox_wrap ul{flex-direction: column; justify-content: center;align-items: center;}
+    .listenSub_block .rightpart .socialsBox_wrap ul li+li {padding: 0 0 15px;margin: 0;}
+    
+   
+    .podbox .detailbox .textblock p{font-size: 12px;}
+    .blogbox .detailblock .date{font-size: 14px;}
+    .blogbox .readShare_box .readmore a span{font-size: 18px;}
+    /* .forspace >.row > [class^="col-"] {margin: 0 0 30px 0;} */
+    .blogbox{margin: 0 0 30px;}
+    .signup_form .signup-text input[type=email]{min-width: 0;}
+    .signup_form .signup-text .submit{margin: 0 0 0 15px;}
+    .signup_form .signup-text{max-height: 40px;}
+   
+    .abt_show_wrap .titleblock {display: flex;flex-direction: column;justify-content: flex-start;align-items: flex-start;}
+    .abt_show_wrap .titleblock .lftbox h2, .abt_show_wrap .titleblock .lftbox h2 span{font-size: 18px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box {min-width: 100px;min-height: 100px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box strong{font-size: 36px;padding: 0 0 15px;}
+    .abt_show_wrap .show_bnr .innerbox .exp_box p,.abt_show_wrap .show_bnr .innerbox .exp_box p span{font-size: 12px;}
+
+    .abt_innerbox{flex-direction: column;}
+    .abt_innerbox .lftbox .imgbox{max-width: 100%;}
+    .abt_innerbox .lftbox .imgbox::after{display: none;}
+    .abt_innerbox .rightbox{padding: 15px;margin: 30px 0 0 0;}
+    .abt_innerbox .rightbox .description{max-width: 100%;}
+    .abt_innerbox .rightbox .description .abt_title:after{width: 25px;}
+    .abt_innerbox .rightbox .description .abt_title{padding: 0 0 0 30px;margin: 0 0 10px;}
+    .abt_innerbox .rightbox .description p+p{padding: 10px 0 0 0;}
+    .abt_innerbox .rightbox .description .signbox{padding: 20px 0 0 0;}
+    .abt_innerbox .rightbox .description .signbox strong{font-size: 30px;}
+    .achievement_inner .titlebox{padding: 0 0 30px;}
+    .achievement_inner .state_wrap .statebox strong{font-size: 32px;}
+    .achievement_inner .state_wrap+.state_wrap {margin: 25px 0 0 0;}
+    .achievement_inner .state_wrap .statebox:after{width: 80px;}
+
+    .images_contain .imgbox{max-width: 50%;}
+    .images_contain .overlay .contain{padding: 0 0 0 20px;}
+    .images_contain .overlay .contain a {height: 30px;width: 30px;margin: 15px 0 0 0;}
+    .images_contain .overlay .contain h3,.images_contain .overlay .contain h3 span{font-size: 26px;}
+    .best_movie_wrap .award_trophy{position: relative;}
+    .movies_wrap .firstblock{flex-direction: column;justify-content: center;align-items: center;max-width: 100%;}
+    .movies_wrap .secondblock{flex-direction: column;justify-content: center;align-items: center;margin: 0;}
+    .movies_wrap .thirdblock {display: flex; flex-direction: column;justify-content: center;align-items: center;max-width: 100%;margin: 0;}
+    .best_movie_wrap .award_trophy .imgbox {max-width: 100%;padding-top: 0;}
+    .movies_wrap .firstblock .firstboximg{margin: 0 0 30px;}
+    .movies_wrap .secondblock .secondboximg{margin: 20px 0;}
+    .movies_wrap .thirdblock .thirdboximg{margin: 0 0 30px;}
+    .best_movie_wrap .award_trophy .imgbox strong{font-size: 26px;}
+
+    .client_innerbox .detail h3{font-size: 26px;padding: 0 0 10px;}
+    .client_innerbox .detail{padding: 0 0 20px;}
+    .client_innerbox .profile_box .clientInfo h4{font-size: 18px;padding: 0 0 10px;}
+    .client_wordbox .owl-nav{margin: 20px 0 0 0;}
+    .clientLogo_row{flex-direction: column;}
+    .clientLogo_row .clientIcon+.clientIcon{margin: 15px 0 0 0;}
+
+    .footer_wrap{flex-direction: column;}
+    .leftpart .logoinfo .ftrlogo {max-width: 220px;}
+    .footer_wrap .leftpart,.footer_wrap .rightpart{width: 100%; padding: 15px;}
+    .leftpart .logoinfo .mailinfo span{font-size: 20px;padding: 0 0 15px;}
+    .leftpart .logoinfo .mailinfo .mail{font-size: 26px;}
+    .rightpart .rghtside .pages_linkbox h3{font-size: 28px;padding: 0 0 15px;}
+    .rightpart .rghtside .pages_linkbox ul {flex-direction: column;}
+    .rightpart .rghtside .pages_linkbox ul li+li{margin: 15px 0 0 0;}
+    .rightpart .rghtside .pages_linkbox { padding: 0 0 20px;}
+    .rightpart .rghtside .social_row{padding: 0 0 30px;}
+    .rightpart .rghtside .social_row .icon a {height: 40px;width: 40px;}
+    .rightpart .rghtside .social_row .icon+.icon {margin: 0 0 0 20px;}
+    .rightpart .rghtside .pages_linkbox ul li{padding: 0 0 0 15px;}
+    .podbox .play_pod a i {max-width: 40px;}
+   
+    }
